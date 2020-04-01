@@ -213,5 +213,7 @@ sentry_sdk.init(
     integrations=[sentry_logging, DjangoIntegration(), CeleryIntegration()],
 )
 
-# Your stuff...
+# Django Hosts 
 # ------------------------------------------------------------------------------
+# Guarantee django-hosts is the last middleware app
+MIDDLEWARE += ["django_hosts.middleware.HostsResponseMiddleware"]

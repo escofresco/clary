@@ -55,5 +55,8 @@ INSTALLED_APPS += ["django_extensions"]  # noqa F405
 CELERY_TASK_ALWAYS_EAGER = True
 # http://docs.celeryproject.org/en/latest/userguide/configuration.html#task-eager-propagates
 CELERY_TASK_EAGER_PROPAGATES = True
-# Your stuff...
+
+# Django Hosts
 # ------------------------------------------------------------------------------
+# Guarantee django-hosts is the last middleware app
+MIDDLEWARE += ["django_hosts.middleware.HostsResponseMiddleware"]
