@@ -188,6 +188,10 @@ TEMPLATES = [
                 "django.contrib.messages.context_processors.messages",
                 "clary.utils.context_processors.settings_context",
             ],
+            # https://django-hosts.readthedocs.io/en/latest/templatetags.html#url-override
+            "builtins": [
+                "django_hosts.templatetags.hosts_override",
+            ],
         },
     }
 ]
@@ -311,3 +315,4 @@ REST_FRAMEWORK = {
 # Django Hosts
 # ------------------------------------------------------------------------------
 ROOT_HOSTCONF = "config.hosts"
+DEFAULT_HOST = "visitor"
