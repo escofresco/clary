@@ -307,3 +307,7 @@ REST_FRAMEWORK = {
     ),
     "DEFAULT_PERMISSION_CLASSES": ("rest_framework.permissions.IsAuthenticated",),
 }
+
+# Django Hosts
+# ------------------------------------------------------------------------------
+ROOT_HOSTCONF = "config.hosts"
