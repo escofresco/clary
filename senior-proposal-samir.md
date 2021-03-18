@@ -18,17 +18,18 @@ the project we were originally working on is a Deep Learning audio generator whi
 We planned on a much larger app before for a previous INT but it was a much larger scope than we could accomplish so 
 this is a smaller section of it - just for generating midi files in a helpful sequence. 
 
-## Objective 1: midi-generator feature
+## Objective 1: midi file library creation
 
 **Why do you want to meet this objective? How will it improve your project?** 
-Allows us to compose different notes to create music.
+Store large volumes of midi files locally in the correct format. 
 
 **How will you demonstrate completion of your objective?** 
-We will create atleast one 4 bar midi file
+I will have a workign library / directory for all our midi samples which we can access. 
 
-## Objective 2: Multiple tracks
+## Objective 2: downloading midi properly
 **Why do you want to meet this objective? How will it improve your project?** 
-Combining midi files allows us to compose music as we wish
+We need to be able to access store and download and use the midi files quickly and through the eventual Neural Net. Doing this will
+allow us to generate music eventually programatically. 
 
 **How will you demonstrate completion of your objective?** 
 
