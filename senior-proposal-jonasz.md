@@ -16,28 +16,30 @@ Dates 3/16-3/25
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
 This project has been planned for a while. It is unstarted, but I have a very clear idea of where to take it.
 
-## Objective 1: midi-generator feature
+## Objective 1: Composition: MIDI Generation
 
 **Why do you want to meet this objective? How will it improve your project?** 
-This is the basis for composing music in the app.
+This is the basis for composing music in the app. Since this app is intended for people with little to no technical skills, a core principle is accessibility. Automating composition is a good place to start.
 
 **How will you demonstrate completion of your objective?** 
-4-bar midi
+1-bar midi is playable and stochastic.
 
-## Objective 2: Multiple tracks
+## Objective 2: Arrangement: Multiple Tracks
 **Why do you want to meet this objective? How will it improve your project?** 
-Being able to combine multiple midi tracks together enables 
+Being able to combine multiple audio tracks together enables the arrangment of instruments or different components like percussion, melody, etc.
 
 **How will you demonstrate completion of your objective?** 
+Playback will occur for accross midi tracks.
 
-## Objective 3: Playback for all midi tracks
+## Objective 3: Engineering: Sound FX
 **Why do you want to meet this objective? How will it improve your project?** 
+This is the butter of music production. Since MIDI doesn't hold information about how notes should sound, everything about the audio in this project is created in software. On a separate note, arranging multiple tracks together can introduce artifacts that need to be corrected for.
 
-**How will you demonstrate completion of your objective?** 
+**How will you demonstrate completion of your objective?** Atleast one property of sound will be mutable.
 
 ## Stretch goals (optional):
 
-**What stretch goals do you have for your project?**
+**What stretch goals do you have for your project?** Pleasant visual 
 
 ## Evaluation
 
