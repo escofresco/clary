@@ -26,7 +26,7 @@ Store large volumes of midi files locally in the correct format.
 **How will you demonstrate completion of your objective?** 
 I will have a working library / directory for all our midi samples which we can access. 
 
-## Objective 2: downloading midi properly
+## Objective 2: midi recording
 **Why do you want to meet this objective? How will it improve your project?** 
 We need to be able to access store and download and use the midi files quickly and through the eventual Neural Net. Doing this will
 allow us to generate music eventually programatically. 
