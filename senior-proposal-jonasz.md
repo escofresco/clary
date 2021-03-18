@@ -1,17 +1,14 @@
 # Seniors Spring Intensive Deliverable Proposal 
 
-## TODO: copy this file, fill it out, and push it up to your project's repo.
-
 Dates 3/16-3/25
 
-**My Name:** Jonasz Rice
+**My Name:** Jonasz Rice, Samir Ingle
 
 **Project Name:** Clary
 
 **Is your project New or Old?** Old
 
-
-**Is your project Solo or Team?** Solo
+**Is your project Solo or Team?** Team
 
 
 ## Description
@@ -60,13 +57,6 @@ Being able to combine multiple midi tracks together enables
 
 
 ## Approval Checklist
-- [ ] If I have a team project, I wrote this proposal to represent my work and only my work
-- [ ] I have completed all the necessary parts of this proposal
-- [ ] I linked my proposal in the Spring Intensive Tracker
-
-### Sign off
-
-**Student Name:**                
-> Name / Date
-**Make School Advisor Name**
-> TBD
+- [x] If I have a team project, I wrote this proposal to represent my work and only my work
+- [x] I have completed all the necessary parts of this proposal
+- [x] I linked my proposal in the Spring Intensive Tracker
