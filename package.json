@@ -1,0 +1,27 @@
+{
+  "name": "clary",
+  "version": "1.0.0",
+  "description": "beep bop a doo dap",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/escofresco/clary.git"
+  },
+  "keywords": [],
+  "author": "Jonasz Rice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/escofresco/clary/issues"
+  },
+  "homepage": "https://github.com/escofresco/clary#readme",
+  "devDependencies": {
+    "electron": "^12.0.1"
+  },
+  "dependencies": {
+    "@magenta/music": "^1.21.0"
+  }
+}
