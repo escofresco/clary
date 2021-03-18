@@ -24,7 +24,7 @@ this is a smaller section of it - just for generating midi files in a helpful se
 Store large volumes of midi files locally in the correct format. 
 
 **How will you demonstrate completion of your objective?** 
-I will have a workign library / directory for all our midi samples which we can access. 
+I will have a working library / directory for all our midi samples which we can access. 
 
 ## Objective 2: downloading midi properly
 **Why do you want to meet this objective? How will it improve your project?** 
@@ -33,13 +33,13 @@ allow us to generate music eventually programatically.
 
 **How will you demonstrate completion of your objective?** 
 
-## Objective 3: Playback for midi tracks
+## Objective 3: Midi track sequencing
 **Why do you want to meet this objective? How will it improve your project?** 
 We want to be able to create actual music files which we can play outloud, save,
-and make changes to. 
+and make changes to, so being able to sequence them the way a sheet of music would do 
 
 **How will you demonstrate completion of your objective?** 
-Atleast one playable midi file
+Atleast one playable midi file in sequence
 
 ## Stretch goals (optional):
 
