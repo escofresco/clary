@@ -14,9 +14,9 @@ Dates 3/16-3/25
 ## Description
 
 **Write a paragraph summary of the current status of your project, what you hope to achieve during the intensive, how and why**
-the project we were originally working on is a Deep Learning audio generator which allows us to create music after training it on different songs, genres, samples, etc.... However this proved to be a huge task - we are only focusing on the music production part for now since that was our biggest blindspot
-We planned on a much larger app before for a previous INT but it was a much larger scope than we could accomplish so 
-this is a smaller section of it - just for generating midi files in a helpful sequence. 
+The project we were originally working on is a Deep Learning audio generator which allows us to create music after training it on different songs, genres, samples, etc.... However this proved to be a huge task - we are only focusing on the music production part for now since that was our biggest blindspot
+
+This is a section of it - just for generating midi files in a helpful sequence. 
 
 ## Objective 1: midi file library creation
 
