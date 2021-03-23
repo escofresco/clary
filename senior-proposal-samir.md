@@ -18,28 +18,29 @@ The project we were originally working on is a Deep Learning audio generator whi
 
 This is a section of it - just for generating midi files in a helpful sequence. 
 
-## Objective 1: midi file library creation
+## COMPLETE -- Objective 1: Library for midi files
 
 **Why do you want to meet this objective? How will it improve your project?** 
-Store large volumes of midi files locally in the correct format. 
+Store large volumes of midi files locally in the correct format and be able to 
+modulate FM and AM properties of sound waves. 
 
 **How will you demonstrate completion of your objective?** 
-I will have a working library / directory for all our midi samples which we can access. 
+A library of midi sounds that can be created and modified.
 
-## Objective 2: midi recording
+## COMPLETE -- Objective 2: Midi recording
 **Why do you want to meet this objective? How will it improve your project?** 
-We need to be able to access store and download and use the midi files quickly and through the eventual Neural Net. Doing this will
-allow us to generate music eventually programatically. 
+We need to be able to access store and download and use the midi files quickly and through the eventual Neural Net. Doing this will allow us to generate music eventually programatically. 
 
 **How will you demonstrate completion of your objective?** 
+Create and play a midi sound file.
 
-## Objective 3: Midi track sequencing
+## IN PROGRESS -- Objective 3: Midi track sequencing
 **Why do you want to meet this objective? How will it improve your project?** 
 We want to be able to create actual music files which we can play outloud, save,
 and make changes to, so being able to sequence them the way a sheet of music would do 
 
 **How will you demonstrate completion of your objective?** 
-Atleast one playable midi file in sequence
+Create a sequential playable midi file
 
 ## Stretch goals (optional):
 
