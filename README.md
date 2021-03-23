@@ -8,13 +8,13 @@ Create waveform sound files using only math!
 - Generate sine waves and play them as digital music ------->   scipiwav.py
 - Modulate the digital sine wave via AM or FM -------------->   amp_modulator.py & freq_modulator.py
 
-### :loud_sound: Generate sine waves entirely from scratch using Numpy arrays
+## :loud_sound: Generate sine waves entirely from scratch using Numpy arrays
 **:file_folder: scipiwav.py**
 - Create a Numpy array of sample size recognizable to human ear
 - Calculate/sample (analog to digital) parts of a sine wave and map those values to the array
 - Play the array by converting to ints and saving as .wav file or using 'sounddevice' library
 
-### :notes: Modulate the digital music sine wave
+## :notes: Modulate the digital music sine wave
 **:file_folder: amp_modulator.py & freq_modulator.py**
 - In creating the sine wave, we can modify its properties to achieve any sound
 - Amplitude affects the volume which we simply multiply the array by another const
@@ -25,7 +25,7 @@ Create waveform sound files using only math!
 [Frequencies of Notes](https://pages.mtu.edu/~suits/notefreqs.html)
 
 
-### Objectives Samir:
+## Objectives Samir:
 1. [x] Complete - Generate sounds (sine waves)
 2. [x] Complete - Modulate sounds (AM/FM)
 3. [x] Almost complete - Combine sequence of sounds
