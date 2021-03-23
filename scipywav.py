@@ -30,7 +30,7 @@ waveform_quiet = waveform * attenuation # attenuation -> everything from max val
 waveform_integers = np.int16(waveform_quiet * 32797) # convert floats to ints -> need signed 16bit values
 
 # SAVE as .wav file
-# write('midi_library/first_sine_wave.wav', sps, waveform_integers)
+# write('midi_library/simple_sine_wave.wav', sps, waveform_integers)
 # file = "midi_library/first_sine_wave.wav"
 
 # PLAY from speakers

@@ -59,7 +59,7 @@ waveform_integers = np.int16(waveform_quiet * 32797) # convert floats to ints ->
 
 
 # SAVE as .wav file
-write('midi_library/frequency_modulated.wav', sps, waveform_integers)
+# write('midi_library/frequency_modulated.wav', sps, waveform_integers)
 # file = "midi_library/first_sine_wave.wav"
 
 # PLAY from speakers

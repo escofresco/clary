@@ -21,18 +21,17 @@ This is a section of it - just for generating midi files in a helpful sequence.
 ## COMPLETE -- Objective 1: Library for midi files
 
 **Why do you want to meet this objective? How will it improve your project?** 
-Store large volumes of midi files locally in the correct format and be able to 
-modulate FM and AM properties of sound waves. 
+Create and store large volumes of midi files locally in the correct format and be able to eventually play them. 
 
 **How will you demonstrate completion of your objective?** 
-A library of midi sounds that can be created and modified.
+Be able to generate sounds (sine waves)
 
 ## COMPLETE -- Objective 2: Midi recording
 **Why do you want to meet this objective? How will it improve your project?** 
 We need to be able to access store and download and use the midi files quickly and through the eventual Neural Net. Doing this will allow us to generate music eventually programatically. 
 
 **How will you demonstrate completion of your objective?** 
-Create and play a midi sound file.
+Modulate a sound file (AM/FM)
 
 ## IN PROGRESS -- Objective 3: Midi track sequencing
 **Why do you want to meet this objective? How will it improve your project?** 

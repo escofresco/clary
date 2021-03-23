@@ -3,8 +3,8 @@
 Create .wav playable sound files using only math!
 
 ## Features:
-- Generate sine waves and play them as digital music
-- Modulate the digital sine wave through AM or FM 
+- Generate sine waves and play them as digital music // scipiwav.py
+- Modulate the digital sine wave via AM or FM // amp_modulator.py & freq_modulator.py
 
 ### Generate sine waves entirely from scratch using Numpy arrays\
 - Create a Numpy array of sample size recognizable to human ear\
@@ -16,7 +16,8 @@ Create .wav playable sound files using only math!
 - Amplitude affects the volume which we simply multiply the array by another const\
 - Frequency has another formula entirely which we use to gives us our different pitches\
 
-### Objectives for Samir:
-1. [x] Complete - be able to generate a library of modifiable sounds
-2. [x] Complete - be able to play those sounds
-3. [o] In Progress - combine them into a sequence of sounds
+### Objectives Samir:
+1. [x] Complete - Generate sounds (sine waves)
+2. [x] Complete - Modulate sounds (AM/FM)
+3. [x] Almost complete - Combine sequence of sounds
+
