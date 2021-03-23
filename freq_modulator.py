@@ -31,9 +31,14 @@ ka = 0.75
 # Frequency of modulator
 fm = 110.0
 # deviation constant. no units
-k = 1.0
+# k = 1.0
 # k = 11.0
-# k = 110.0
+# k = 440.0 # A4
+# k = 493.88 # B4
+# k = 523.25 # C5
+# k = 587.33 # D5
+# k = 659.25 # E5
+
 
 # CREATE a Sine Wave with Numpy
 # using python's array instead of list -> drops into C and calculates multiple values at once
@@ -59,7 +64,7 @@ waveform_integers = np.int16(waveform_quiet * 32797) # convert floats to ints ->
 
 
 # SAVE as .wav file
-# write('midi_library/frequency_modulated.wav', sps, waveform_integers)
+write('midi_library/frequency_E5_659.25_modulated.wav', sps, waveform_integers)
 # file = "midi_library/first_sine_wave.wav"
 
 # PLAY from speakers

@@ -49,7 +49,7 @@ modulated_ints = np.int16(modulated * 32797)
 
 
 # SAVE as .wav file
-write('midi_library/amplitude_modulated.wav', sps, modulated_ints)
+write('midi_library/amp_modulated.wav', sps, modulated_ints)
 # file = "midi_library/first_sine_wave.wav"
 
 # PLAY from speakers
