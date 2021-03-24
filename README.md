@@ -5,10 +5,10 @@ Synthesizer made from scratch\
 Create waveform sound files using **only math!**
 
 ## Features:
-:file_folder: scipiwav.py -- Generate sine waves and play them as digital music\
-:file_folder: amp_modulator.py -- Modulate amplitude of digital sine wave AM\
-:file_folder: freq_modulator.py -- Modulate frequency of digital sine wave FM\
-:file_folder: midi_library -- Store musical notes in wav format
+:file_folder: scipiwav.py -------- Generate sine waves and play them as digital music\
+:file_folder: amp_modulator.py --- Modulate amplitude of digital sine wave AM\
+:file_folder: freq_modulator.py --- Modulate frequency of digital sine wave FM\
+:file_folder: midi_library -------- Store musical notes in wav format
 
 ## :loud_sound: Generate sine waves entirely from scratch using Numpy arrays
 **scipiwav.py**
