@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/escofresco/clary#readme",
   "devDependencies": {
-    "electron": "^12.0.1"
+    "electron": "^15.5.5"
   },
   "dependencies": {
     "@magenta/music": "^1.21.0"
